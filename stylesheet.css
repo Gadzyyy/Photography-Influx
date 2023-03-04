@@ -1,0 +1,52 @@
+a {
+    color: white;
+}
+
+footer {
+    background-color: black;
+
+}
+
+.header-link {
+    color: black;
+
+
+}
+
+#logo {
+    display: inline-block;
+    margin: 2px;
+    /* float: left; */
+    height: 17px;
+    width: auto;
+    border-radius: 5%;
+}
+
+image {
+    /* max-width: 50%;
+    height: auto; */
+    display: inline-block;
+    margin: 2px;
+    /* float: left; */
+    height: 17px;
+    width: auto;
+    border-radius: 5%;
+}
+
+image {
+    max-width: 100%;
+    max-height: 100%;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: auto;
+    position: fixed;
+    right: 0;
+    top: 0;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+body {
+    text-align: center;
+}
